@@ -7,3 +7,10 @@ var car = {
   trim: "leather"
 };
 console.log(car);
+
+var animal = {
+  hasFur: true,
+  numLegs: 4,
+  favoriteFoods: ["fish", "shrimp"]
+};
+console.log(animal);
